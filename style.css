@@ -1,0 +1,22 @@
+.divs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+input{
+    width: 250px;
+    height: 35px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 12px;
+    background-color: #17031b;
+    color: #fff;
+    position: absolute;
+    bottom: 550px;
+    cursor: pointer;
+}
